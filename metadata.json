@@ -1,0 +1,7 @@
+{
+  "name": "Permutei",
+  "description": "Uma plataforma moderna de troca, venda e negociação de produtos e serviços.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
